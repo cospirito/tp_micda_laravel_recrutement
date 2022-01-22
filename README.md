@@ -4,11 +4,15 @@
 </p>
 
 # TP LARAVEL RECRUTEMENT
+<<<<<<< HEAD
 
 Ce tp est la fruit du travail de Marc Guei, réaliser au cours de l'années académique 2021 en Master d'Ingenierie de développement et de Conception d'application.
 M Hakiki, notre prof en dev web, nous a demandé réalis
+=======
+>>>>>>> back
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Ce tp est la fruit du travail de Marc Guei, réaliser au cours de l'années académique 2021 en Master d'Ingenierie de développement et de Conception d'application.
+M Hakiki, notre prof en dev web, nous a demandé réaliser un projet complet en vue de valider nos connaissanses en laravel.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
