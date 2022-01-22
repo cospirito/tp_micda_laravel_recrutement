@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-## A propos TP LARAVEL RECRUTEMENT
+# TP LARAVEL RECRUTEMENT
 
 Ce tp est la fruit du travail de Marc Guei, réaliser au cours de l'années académique 2021 en Master d'Ingenierie de développement et de Conception d'application.
 M Hakiki, notre prof en dev web, nous a demandé réaliser un projet complet en vue de valider nos connaissanses en laravel.
